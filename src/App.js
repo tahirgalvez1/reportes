@@ -8,9 +8,11 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           reportesrootsftcalypsodipsy coming soon...
-
+          <br/>
           the return of papir gonzales
+          <br/>
           revenge of the burgerjedi
+          <br/>
           a new hamez
         </p>
       </header>
